@@ -1,0 +1,31 @@
+What are macros ?
+
+What is the difference between char *a and char a[]?
+
+What is a NULL pointer? How is it different from an unitialized pointer? How is a NULL pointer defined?
+
+What is a memory leak?
+
+What is the difference between malloc() and calloc()?
+
+How do you reverse a singly linked list? How do you reverse a doubly linked list? Write a C program to do the same
+
+Given only a pointer to a node to be deleted in a singly linked list, how do you delete it?
+
+How do you sort a linked list? Write a C program to sort a linked list.
+
+How do you reverse a linked list without using any C pointers?
+
+How would you detect a loop in a linked list? Write a C program to detect a loop in a linked list
+
+Write a C program to find the depth or height of a tree
+
+Write a C program to determine the number of elements (or size) in a tree.
+
+Write a C program to delete a tree (i.e, free up its nodes)
+
+Write C code to determine if two trees are identical
+
+Write a C program to find the mininum value in a binary search tree.
+
+Write a C program to compute the maximum depth in a tree?

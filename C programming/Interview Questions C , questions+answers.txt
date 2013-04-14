@@ -1,0 +1,109 @@
+    What is C language?
+
+    What is a pragma?
+
+    What is the use of logical operators and the conditional operators with example?
+
+    Define static variable?
+
+    Is it possible to declare static variable in header file?
+
+    What is difference between nul and null?
+
+    What is a function and its use?
+
+    What is recursion?
+
+    What is hashing?
+
+    What is null pointer?
+
+    Define array and a simple program with array?
+
+    What is the difference between printf() and scanf()?
+
+    What is difference between charachter arrays and strings?
+
+    What is the output of printf("%f") and printf("%d")?
+
+    What is the difference between run time error and compile time error?
+
+    What is calloc() and malloc() and its differences?
+
+    How to reduce the final size of executable?
+
+    What are the diffrent class storages in c?
+
+    Is it possible to execute code even after the program exists the main() function?
+
+    How can you determine the size allocation of memory?
+
+    What is c-preprocessor and its features?
+
+    What is object file?
+
+    How can you access objectfile?
+
+    What are strings?
+
+    What are standard library string functions?
+
+    How to find a given number is armstrong or not in "c"?
+
+    What is structural language and procedural language with differences?
+
+    What is the limitation of array of pointers to strings?
+
+    What is the difference between structure and union?
+
+    What is null macro?
+
+    What is the difference between null macro and null pointer?
+
+    What is data structure in c?
+
+    How can we check whether the contents of two structure variables are same or not?
+
+    What is file pointer and its working method?
+
+    What is void pointer?
+
+    How are pointer variables intialized?
+
+    Will you add pointers together? Explain it?
+
+    What is static function?
+
+    What is the purpose of the main( ) function?
+
+    How to write a program in c to print its own code?
+
+    Difference between linker and linkage?
+
+    What is meant by malloc function?
+
+    How do you use a pointer to a function?
+
+    Difference between pointer to function and function to pointer?
+
+    How to convert decimal to octal and hexadecimal in c?
+
+    What is a method?
+
+    What is built-in function?
+
+    What are the advantages of macro over a function?
+
+    How to print a statement with out using printf( ) in c?
+
+    What is the code to draw a three dimensional graph using c graphics?
+
+    How to create a relation circular program using c?
+
+    What is #line used for?
+
+    What is an abstract class?
+
+    What are the important features in c?
+
+    What is a modular programming?

@@ -1,0 +1,208 @@
+    What does static variable mean?
+
+    What is a pointer?
+
+    What is a structure?
+
+    What are the differences between structures and arrays?
+
+    In header files whether functions are declared or defined?
+
+    What are the differences between malloc() and calloc()?
+
+    What are macros? What are the advantages and disadvantages?
+
+    Difference between pass by reference and pass by value?
+
+    What is static identifier?
+
+    Where are the auto variables stored?
+
+    Where does global, static, local, register variables, free memory and C Program instructions get stored?
+
+    Difference between arrays and linked list?
+
+    What are enumerations?
+
+    Describe about storage allocation and scope of global, extern, static, local and register variables?
+
+    What are register variables? What are the advantage of using register variables?
+
+    What is the use of typedef?
+
+    Can we specify variable field width in a scanf() format string? If possible how?
+
+    Out of fgets() and gets() which function is safe to use and why?
+
+    Difference between strdup and strcpy?
+
+    What is recursion?
+
+    Differentiate between a for loop and a while loop? What are it uses?
+
+    What are the different storage classes in C?
+
+    Write down the equivalent pointer expression for referring the same element a[i][j][k][l]?
+
+    What is difference between Structure and Unions?
+
+    What the advantages of using Unions?
+
+    What are the advantages of using pointers in a program?
+
+    What is the difference between Strings and Arrays?
+
+    In a header file whether functions are declared or defined?
+
+    What is a far pointer? where we use it?
+
+    How will you declare an array of three function pointers where each function receives two ints and returns a float?
+
+    What is a NULL Pointer? Whether it is same as an uninitialized pointer?
+
+    What is a NULL Macro? What is the difference between a NULL Pointer and a NULL Macro?
+
+    What does the error ‘Null Pointer Assignment’ mean and what causes this error?
+
+    What is near, far and huge pointers? How many bytes are occupied by them?
+
+    How would you obtain segment and offset addresses from a far address of a memory location?
+
+    Are the expressions arr and *arr same for an array of integers?
+
+    Does mentioning the array name gives the base address in all the contexts?
+
+    Explain one method to process an entire string as one unit?
+
+    What is the similarity between a Structure, Union and enumeration?
+
+    Can a Structure contain a Pointer to itself?
+
+    How can we check whether the contents of two structure variables are same or not?
+
+    How are Structure passing and returning implemented by the complier?
+
+    How can we read/write Structures from/to data files?
+
+    What is the difference between an enumeration and a set of pre-processor # defines?
+
+    What do the ‘c’ and ‘v’ in argc and argv stand for?
+
+    Are the variables argc and argv are local to main?
+
+    What is the maximum combined length of command line arguments including the space between adjacent arguments?
+
+    If we want that any wildcard characters in the command line arguments should be appropriately expanded, are we required to make any special provision? If yes, which?
+
+    Does there exist any way to make the command line arguments available to other functions without passing them as arguments to the function?
+
+    What are bit fields? What is the use of bit fields in a Structure declaration?
+
+    To which numbering system can the binary number 1101100100111100 be easily converted to?
+
+    Which bit wise operator is suitable for checking whether a particular bit is on or off?
+
+    Which bit wise operator is suitable for turning off a particular bit in a number?
+
+    Which bit wise operator is suitable for putting on a particular bit in a number?
+
+    Which bit wise operator is suitable for checking whether a particular bit is on or off?
+
+    Which one is equivalent to multiplying by 2?
+
+        Left shifting a number by 1
+        Left shifting an unsigned int or char by 1? 
+
+    Write a program to compare two strings without using the strcmp() function.
+
+    Write a program to concatenate two strings.
+
+    Write a program to interchange 2 variables without using the third one.
+
+    Write programs for String Reversal. The same for Palindrome check.
+
+    Write a program to find the Factorial of a number.
+
+    Write a program to generate the Fibonacci Series?
+
+    Write a program which employs Recursion?
+
+    Write a program which uses command line arguments.
+
+    Write a program which uses functions like strcmp(), strcpy(), etc.
+
+    What are the advantages of using typedef in a program?
+
+    How would you dynamically allocate a one-dimensional and two-dimensional array of integers?
+
+    How can you increase the size of a dynamically allocated array?
+
+    How can you increase the size of a statically allocated array?
+
+    When reallocating memory if any other pointers point into the same piece of memory do you have to readjust these other pointers or do they get readjusted automatically?
+    
+    Which function should be used to free the memory allocated by calloc()?
+
+    How much maximum can you allocate in a single call to malloc()?
+
+    Can you dynamically allocate arrays in expanded memory?
+
+    What is object file? How can you access object file?
+
+    Which header file should you include if you are to develop a function which can accept variable number of arguments?
+
+    Can you write a function similar to printf()?
+
+    How can a called function determine the number of arguments that have been passed to it?
+
+    Can there be at least some solution to determine the number of arguments passed to a variable argument list function?
+
+    How do you declare the following:
+        An array of three pointers to chars
+        An array of three char pointers
+        A pointer to array of three chars
+        A pointer to function which receives an int pointer and returns a float pointer
+        A pointer to a function which receives nothing and returns nothing 
+
+    What do the functions atoi(), itoa() and gcvt() do?
+
+    Does there exist any other function which can be used to convert an integer or a float to a string?
+
+    How would you use qsort() function to sort an array of structures?
+
+    How would you use qsort() function to sort the name stored in an array of pointers to string?
+
+    How would you use bsearch() function to search a name stored in array of pointers to string?
+
+    How would you use the functions sin(), pow(), sqrt()?
+
+    How would you use the functions memcpy(), memset(), memmove()?
+
+    How would you use the functions fseek(), freed(), fwrite() and ftell()?
+
+    How would you obtain the current time and difference between two times?
+
+    How would you use the functions randomize() and random()?
+
+    How would you implement a substr() function that extracts a sub string from a given string?
+
+    What is the difference between the functions rand(), random(), srand() and randomize()?
+
+    What is the difference between the functions memmove() and memcpy()?
+
+    How do you print a string on the printer?
+
+    Can you use the function fprintf() to display the output on the screen?
+
+    Gautam Pagedar adds this question: What is a linklist and why do we use it when we have arrays? - I feel the correct answer should be linklist is used in cases where you donÃ¢â‚¬â„¢t know the memory required to store a data structure and need to allocate is dynamically on demand.
+    How do you detect a loop in linked list?
+    
+    Sunil asks: What is the difference between main() in C and main() in C++?
+
+    ajz at his interviews asks what will be printed out when the following code is executed:
+
+        main()
+        {
+        printf("%x",-1<<4);
+        } 
+
